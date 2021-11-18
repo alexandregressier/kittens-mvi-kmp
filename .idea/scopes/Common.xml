@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Common" pattern="file[kittens.kittens-shared]:*||file[kittens.kittens-shared]:src/commonMain/*/||file[kittens.kittens-shared.commonMain]:*/||file[kittens.kittens-shared]:src/commonTest/*/||file[kittens.kittens-shared.commonTest]:*/" />
+</component>

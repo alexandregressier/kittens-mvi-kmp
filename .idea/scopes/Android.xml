@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Android" pattern="file[kittens.kittens-android-app]:*/||file[kittens.kittens-shared]:src/androidMain/*/||file[kittens.kittens-shared]:src/androidTest/*/" />
+</component>

@@ -1,0 +1,5 @@
+target 'kittens-ios-app' do
+  use_frameworks!
+  platform :ios, '14.1'
+  pod 'kittens_shared', :path => '../kittens-shared'
+end

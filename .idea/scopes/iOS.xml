@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="iOS" pattern="file[kittens]:kittens-ios-app/*/||file[kittens.kittens-shared]:src/iosMain/*/||file[kittens.kittens-shared.iosMain]:*/||file[kittens.kittens-shared]:src/iosTest/*/||file[kittens.kittens-shared.iosTest]:*/" />
+</component>

@@ -1,0 +1,16 @@
+PODS:
+  - kittens_shared (0.1.0)
+
+DEPENDENCIES:
+  - kittens_shared (from `../kittens-shared`)
+
+EXTERNAL SOURCES:
+  kittens_shared:
+    :path: "../kittens-shared"
+
+SPEC CHECKSUMS:
+  kittens_shared: 56408be845c8e4320fc4a561d2616daa26a68726
+
+PODFILE CHECKSUM: 6268ef5e49c2de5ab7f543bc229bac3b2032bc1a
+
+COCOAPODS: 1.11.2
